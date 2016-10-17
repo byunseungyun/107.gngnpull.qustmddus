@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: 
+Sitemap:http://gngnpull.qustmddus.com/sitemap.xml
+
+User-agent:Yeti
+Disallow: 
